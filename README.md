@@ -1,12 +1,14 @@
-
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<p> A Mumbai-based computer science student with diverse interests beyond code and algorithms, excelling academically and gaining real-world insights through internships. A collaborative, proficient, and solution-oriented individual, ready to transition from academia to a dynamic professional environment, equipped with technical skills, adaptability, and a forward-thinking approach.
+<p align="center">
+    <a href="https://github.com/aman090304"><img src="forkit.gif "/></a>
+</p>
+<p align="center"> <samp>A Mumbai-based computer science student with diverse interests beyond code and algorithms, excelling academically and gaining real-world insights through internships. A collaborative, proficient, and solution-oriented individual, ready to transition from academia to a dynamic professional environment, equipped with technical skills, adaptability, and a forward-thinking approach.</samp>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman090304&label=Profile%20views&color=0e75b6&style=flat" alt="aman090304" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Android , DSA , MERN**
 
