@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman090304&label=Profile%20views&color=0e75b6&style=flat" alt="aman090304" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **BLOCKCHAIN**
 
-- 💬 Ask me about **Android , DSA , MERN**
+- 💬 Ask me about **BLOCKCHAIN , DSA , MERN**
 
 - 📫 How to reach me **amanrgupta.456@gmail.com**
 
