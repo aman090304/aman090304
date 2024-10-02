@@ -10,6 +10,7 @@
   
 <p align="center">
  <a href="https://leetcode.com/aman090304/" target="_blank"><img align="center" src="https://assets.leetcode.com/users/images/20b0a625-ea31-4a3e-b561-7000deae15cc_1708636184.9909492.gif" alt="jyot" height="200" width="200" /></a>
+ <a href="https://leetcode.com/aman090304/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="200" width="200" /></a>
 </p>
     <p align="center" >LeetCode Status </p>
 <p align="center">
